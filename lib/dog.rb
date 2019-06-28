@@ -21,3 +21,4 @@ end
   def self.clear_all
     @@all.Clear
 end
+end
